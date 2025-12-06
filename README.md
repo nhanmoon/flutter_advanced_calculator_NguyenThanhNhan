@@ -94,19 +94,30 @@ Hỗ trợ:
 flutter pub get
 
 - Run the app
+
 flutter run
 
 - Run unit tests
+
 flutter test
 
 📂 Project Structure
+
 lib/
- ├── models/                 # Data models
- ├── providers/              # State management (Provider)
- ├── services/               # Storage & theme services
- ├── utils/                  # Parser & calculation logic
- ├── screens/                # Main screens
- ├── widgets/                # Reusable UI components
+ 
+ 
+├── models/                 # Data models
+
+├── providers/              # State management (Provider)
+ 
+├── services/               # Storage & theme services
+ 
+├── utils/                  # Parser & calculation logic
+ 
+├── screens/                # Main screens
+ 
+├── widgets/                # Reusable UI components
+
  🚧 Limitations & Future Improvements
 
 Add multi-gesture support (pinch, swipe-right delete)
