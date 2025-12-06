@@ -1,16 +1,11 @@
-# lab3
+Nguyễn Thành Nhân
 
-A new Flutter project.
+2224801030136
+<img width="1305" height="989" alt="image" src="https://github.com/user-attachments/assets/b4ed8516-bb73-4edd-b6f3-2b3059700075" />
 
-## Getting Started
+<img width="1308" height="1006" alt="image" src="https://github.com/user-attachments/assets/1cfe3d71-288a-4adc-bcef-ca15347b6c0f" />
 
-This project is a starting point for a Flutter application.
+<img width="1306" height="997" alt="image" src="https://github.com/user-attachments/assets/f200d767-5f2d-4f44-8fbd-bfb5908a21ce" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1311" height="991" alt="image" src="https://github.com/user-attachments/assets/c2091a41-1a18-462e-9aaa-546631dbd360" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
